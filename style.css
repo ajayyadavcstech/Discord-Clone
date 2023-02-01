@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bgimage{
+    transform: scale(170%,160%);
+    /* transform: scaleY(150%); */
+    bottom: 113px;
+    
+}
+.bgimage2{
+    left:-260px
+}
+.bgimage1{
+    right: -210px;
+}
+
+.section4head{
+    font-family: Ginto-Nord700;
+}
